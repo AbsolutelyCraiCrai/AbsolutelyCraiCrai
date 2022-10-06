@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I started when I was very young, and now I've pursued that into a career. I currently do a lot of web development work, but my specialty and interest is in Windows desktop software. This account is used for personal and Second Life related projects.
+I started when I was very young, and now I've pursued Software Engineering into a career!
+
+I currently do a lot of web development work, but my specialty and interest is in Windows desktop software. This account is used for personal and Second Life related projects.
 
 * 🌍  I'm based in Wales, UK
 
